@@ -7,7 +7,6 @@ Bu proje, [DroneKit-Python](https://github.com/dronekit/dronekit-python) kütüp
 - Aşağıdaki temel araç verilerini alır:
   - GPS durumu
   - Pil durumu
-  - Son kalp atışı
   - Arm edilebilirlik durumu
   - Sistem durumu
   - Mevcut uçuş modu
